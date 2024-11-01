@@ -1,0 +1,18 @@
+# Copyright (C) 2019 Automattic
+# This file is distributed under the same license as the BaconPay package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BaconPay 0.0.6\n"
+"Report-Msgid-Bugs-To: https://tokenbacon\n"
+"POT-Creation-Date: 2019-08-12 13:41:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: class-wc-gateway-baconpay.php:14
+msgid "BaconPay"
+msgstr ""
